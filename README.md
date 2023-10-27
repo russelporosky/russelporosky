@@ -7,7 +7,7 @@ I'm a senior level software developer specializing in web applications and brows
 I do most of my code in TypeScript, but jump into PHP and Python pretty much at a whim. I've concentrated on Angular for several years, but again, I'm always happy to experience React, Vue, and Svelte when the opportunity arises.
 
 Things I have in progress:
-* a book on using NX to create Angular micro-frontends with a Nest.js backend, hosted on Firebase
+* a book on using NX to create Angular micro-frontends with an Express backend, hosted on Firebase
 * an Arduino-based backlighting project for a performance space with ~1500 RGB lights
 * an automated billing application for private music schools using Angular and Firebase
 * learning Japanese
