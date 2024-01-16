@@ -17,3 +17,4 @@ Things I have in progress:
 I'm a recording engineer, multi-instrumentalist, Aloha shirt collector, and board game player.
 
 [<img height="32" width="32" alt="LinkedIn" src="https://unpkg.com/simple-icons@v9/icons/linkedin.svg" />](https://www.linkedin.com/in/russelporosky/)
+[<img height="32" width="32" alt="Resume" src="https://unpkg.com/simple-icons@v9/icons/readme.svg" />](https://registry.jsonresume.org/russelporosky)
